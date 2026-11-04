@@ -1,11 +1,3 @@
-/**
- * Touchwood Hiring Dashboard — Google Apps Script backend
- * --------------------------------------------------------
- * 1. Change FIRST_ADMIN_PASSWORD below (and LOGO_FILE_ID if you have the logo in Drive).
- * 2. Run setup() once from the editor and approve the permissions.
- * 3. Deploy > New deployment > Web app (Execute as: Me, Who has access: Anyone).
- */
-
 const CONFIG = {
   APP_TITLE: 'Touchwood Hiring',
   FIRST_ADMIN_USERNAME: 'admin',
